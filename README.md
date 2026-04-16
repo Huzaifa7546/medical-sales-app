@@ -4,6 +4,11 @@ A professional, enterprise-grade Pharmacy Management System and Medical Sales Da
 
 ![Medical Sales App](frontend/src/assets/hero.png)
 
+## 🌐 Live Demo
+
+- **Frontend**: [https://huzaifa7546.github.io/medical-sales-app/](https://huzaifa7546.github.io/medical-sales-app/)
+- **Backend API**: (Deploy to Render to get your URL)
+
 ## ✨ Features
 
 - **🛡️ Secure Authentication**: Robust login system with role-based access control (RBAC).
