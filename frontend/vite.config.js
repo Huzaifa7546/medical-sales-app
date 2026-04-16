@@ -3,8 +3,9 @@ import react from '@vitejs/plugin-react'
 
 // https://vite.dev/config/
 export default defineConfig({
+  base: '/medical-sales-app/',
   plugins: [react()],
   server: {
-    allowedHosts: true, // Allows all hosts like ngrok
+    allowedHosts: true,
   }
 })
